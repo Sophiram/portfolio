@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Swagger logo">
+  <rect width="128" height="128" rx="18" fill="#3F8FCF"/>
+  <path d="M64 24c-20 0-36 16-36 36 0 18 13 33 30 35v13h12V95c17-2 30-17 30-35 0-20-16-36-36-36zm-9 19h18v18H55V43zm-8 30h34v10H47V73zm0 22h34v10H47V95z" fill="#fff"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Figma logo">
+  <path d="M32 20h32a16 16 0 0 1 0 32H32a16 16 0 0 1 0-32zm0 32h32a16 16 0 0 1 0 32H32a16 16 0 0 1 0-32zm32-16h32a16 16 0 0 1 0 32H64a16 16 0 0 1 0-32zm0 32h32a16 16 0 0 1 0 32H64a16 16 0 0 1 0-32z" fill="#F24E1E"/>
+  <path d="M64 84h32a16 16 0 0 1 0 32H64a16 16 0 0 1 0-32z" fill="#FF7262"/>
+  <circle cx="32" cy="68" r="16" fill="#A259FF"/>
+  <circle cx="64" cy="36" r="16" fill="#1ABCFE"/>
+  <circle cx="64" cy="100" r="16" fill="#0ACF83"/>
+</svg>

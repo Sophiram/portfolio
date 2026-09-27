@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Docker logo">
+  <defs>
+    <linearGradient id="dockerG" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0DB7ED"/>
+      <stop offset="100%" stop-color="#0AA1D8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M25 54h18v16H25zm22 0h18v16H47zm22 0h18v16H69zm22 0h18v16H91zm-66 22h18v16H25zm22 0h18v16H47zm22 0h18v16H69zm22 0h18v16H91zm-66 22h18v16H25zm22 0h18v16H47zm22 0h18v16H69zm22 0h18v16H91z" fill="url(#dockerG)"/>
+    <path d="M110 46h8v8h-8zm-12 0h8v8h-8zm-12 0h8v8h-8zm-12 0h8v8h-8zm-12 0h8v8h-8zm-12 0h8v8h-8zm-8 16h16v8H40zm18 0h16v8H58zm18 0h16v8H76zm18 0h16v8H94zm-16 16h16v8H78zm-18 0h16v8H60zm-18 0h16v8H42z" fill="#E8F7FF" opacity="0.9"/>
+    <path d="M102 28c5 0 9 4 9 9 0 5-4 9-9 9h-8c-3 0-6-2-6-5 0-4 3-7 7-8l7-5zm0 0" fill="#1B75B5"/>
+  </g>
+</svg>
